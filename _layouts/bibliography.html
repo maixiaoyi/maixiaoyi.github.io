@@ -4,7 +4,7 @@
 {{ reference | replace_first: 'F. LastName', '<b>F. LastName</b>'}}
 
 {% assign paper_exists = false %}
-{% capture path_to_slides %}/assets/pdfs/{{ entry.key }}_paper.pdf{% endcapture %}
+{% capture path_to_paper %}/assets/pdfs/{{ entry.key }}_paper.pdf{% endcapture %}
 {% for static_file in site.static_files %}
     {% if static_file.path contains path_to_paper %}
         {% assign paper_exists = true %}
@@ -32,12 +32,6 @@
 {% endfor %}
 
 <div class="btn-group">
-    {% if entry.url %}
-        <a class="btn" href="{{ entry.url }}">
-            <i class="fa fa-newspaper"></i>
-            <span>paper</span>
-        </a>
-    {% endif %}
 
     {% if entry.arxivid %}
         <a class="btn" href="https://arxiv.org/abs/{{ entry.arxivid }}">
