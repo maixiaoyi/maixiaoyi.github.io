@@ -24,12 +24,12 @@ toc_sticky: true
 {% endif %}
 
 
-
 <!-- Journals->
+
 {% capture counter_article %}{% bibliography_count --query @article %}{% endcapture %}
 {% if counter_article != "0" %}
 
-## Journal articles
+## Journals
 
   {% bibliography --query @article %}
 {% endif %}
@@ -38,7 +38,7 @@ toc_sticky: true
 {% capture counter_inproceedings %}{% bibliography_count --query @inproceedings %}{% endcapture %}
 {% if counter_inproceedings != "0" %}
 
-## Conference papers
+## Conferences
 
   {% bibliography --query @inproceedings %}
 {% endif %}
