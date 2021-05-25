@@ -24,7 +24,8 @@ toc_sticky: true
 {% endif %}
 
 
-<!-- Journals->
+
+<!-- Journals-->
 
 {% capture counter_article %}{% bibliography_count --query @article %}{% endcapture %}
 {% if counter_article != "0" %}
