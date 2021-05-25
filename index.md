@@ -4,12 +4,16 @@ author_profile: true
 classes: wide
 ---
 
-I am currently a XXX at [CRIStAL](https://www.cristal.univ-lille.fr/) in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille.
+I am currently a postdoctoral researcher at at [CRIStAL, CNRS](https://www.cristal.univ-lille.fr/), working with  [Rémi Bardenet](https://rbardenet.github.io) on determinantal point processes for statistical learning.
 
-Here's what I do...
+Before that, I was at [University of Southern California](https://www.usc.edu) as a postdoctoral researcher hosted by [Salman Avestimehr](https://www.avestimehr.com), [Antonio Ortega](https://viterbi.usc.edu/directory/faculty/Ortega/Antonio) and [Mahdi Soltanolkotabi]({https://viterbi-web.usc.edu/~soltanol/), with researches activities centered around the theoretical aspects of learning with less labels.    From 2016-2019, I was working, under the supervision of [Romain Couillet](http://romaincouillet.hebfree.org), on my Ph.D. thesis ["Methods of Random Matrices for Large Dimensional Statistical Learning"](https://tel.archives-ouvertes.fr/tel-02418282/document), for which I received the 2020 [[GRETSI/GdR ISIS/EEA](http://www.gretsi.fr/prix-de-these2020/) best thesis award.
+
+
 ## Research interests
 
-Few sentences and/or keywords.
+Random matrix theory, high-dimensional statistics.
+
+Machine learning, methods for learning with less labels, neural networks, randomized feature selection.
 
 <div align="middle" style="margin-top: 50px">
   <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="width:100px;height:100px;"></a>
