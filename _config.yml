@@ -19,7 +19,7 @@ title: "Xiaoyi MAI"
 title_separator: "-"
 subtitle: "" # site tagline that appears below site title in masthead
 name: "Xiaoyi MAI"
-description: "Postdoc, CRIStAL, CNRS"
+description: "Assistant Professor, UT2J/IMT, France"
 github: [metadata]
 url: "https://maixiaoyi.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -99,9 +99,9 @@ analytics:
 author:
   name: "Xiaoyi MAI"
   avatar: "/assets/images/xiaoyi_mai_4.jpeg"
-  bio: "Postdoc, CRIStAL, CNRS"
-  location: "Lille, France"
-  email: "xiaoyi.mai@univ-lille.com"
+  bio: "Assistant Professor, UT2J/IMT"
+  location: "Toulouse, France"
+  email: "xiaoyi.mai@math.univ-toulouse.fr"
   GitHub: "maxiaoyi"
   webpage: "https://maixiaoyi.github.io"
   # Academic profiles
