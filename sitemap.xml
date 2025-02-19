@@ -26,7 +26,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdfs/cv.pdf</loc>
-<lastmod>2024-05-17T16:11:41+02:00</lastmod>
+<lastmod>2025-02-12T18:51:17+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdfs/mai2017counterintuitive_paper.pdf</loc>
@@ -71,5 +71,13 @@
 <url>
 <loc>http://localhost:4000/assets/pdfs/mai2022processus_paper.pdf</loc>
 <lastmod>2024-05-17T16:11:41+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdfs/mai2025breakdown_paper.pdf</loc>
+<lastmod>2025-02-19T04:54:45+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdfs/yang2024inconsistency_paper.pdf</loc>
+<lastmod>2025-02-19T04:55:27+01:00</lastmod>
 </url>
 </urlset>
